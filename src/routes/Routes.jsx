@@ -4,6 +4,7 @@ import About from "../components/About";
 import Home from "../components/Home";
 import Contact from "../components/Contact";
 import Blog from "../components/Blog";
+import Footer from "../components/Footer/Footer";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
       {
         path:"/blog",
         element:<Blog></Blog>
+      },
+      {
+        path:"/footer",
+        element:<Footer></Footer>
       }
     ],
   },

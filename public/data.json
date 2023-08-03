@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Prodip Kumar Shil",
+    "college": "Khulna Polytechnic Institute",
+    "email": "prodipkrishna01@gmail.com",
+    "profession": "Front End Developer",
+    "hire":"https://dev-prodip-kumar-shil.web.app/"
+  },
+  {
+    "name": "Bishawit Shil",
+    "college": "National University",
+    "email": "bishwajitr50@gmail.com",
+    "profession": "Mern Stack Developer",
+    "hire":""
+  },
+  {
+    "name": "Abul Ala Jobayar",
+    "college": "input college name in json file",
+    "email": "abulalajobayar@gmail.com",
+    "profession": "web developer",
+    "hire":"https://jobayarportfolio.netlify.app/"
+  },
+  {
+    "name": "Sk Naime Hasan",
+    "college": "Northern University of Business and Technology Khulna",
+    "email": "naimeh461@gmail.com",
+    "profession": "Marketing Manager"
+ ,   "hire":"https://portfolio-5c3g.vercel.app/"   
+  },
+  {
+    "name": "Hasibur Hossain Santo",
+    "college": "University Of South Asia",
+    "email": "hossainsanto2@gmail.com",
+    "profession": "Web Dev",
+    "hire":"https://hasiburhossainsanto.netlify.app/"
+  },
+  {
+    "name": "Khadiza Samiha",
+    "college": "Feni Computer Institute ",
+    "email": "khadizasamiha7@gmail.com",
+    "profession": "Diploma engineer",
+    "hire":"https://sensational-tapioca-c29036.netlify.app/"
+  }
+]
